@@ -1,0 +1,26 @@
+title: 朱寒冰
+url: "https://icecoldwind.github.io/bingbiu.github.io/"
+# baseurl: "/luohao"
+
+markdown: kramdown
+#
+#tracking_id: G-KC6ZFHG111
+
+footer: No
+footer_url: "https://github.com/IceColdwind"
+footer_text: "Copy right @ Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Homepage"
+   link: "/"
+ - name: "Publication"
+   link: "pub"
+ - name: "Talk"
+   link: "talk"
+ - name: "Contact"
+   link: "contact"
+

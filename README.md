@@ -11,5 +11,3 @@ I received my bachelor degree from Experimental Class Crossing Computer and Fina
 
 - Anomaly detection for time series
 - Deep Learning 
-
-# IceColdwind.github.io

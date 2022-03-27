@@ -10,11 +10,11 @@ layout: default
 
 
 
-## Research Interest
+## 研究方向
 
 - Anomaly detection
 
-## News
+## 教育背景
 - 
 
 

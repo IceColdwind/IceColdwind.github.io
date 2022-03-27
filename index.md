@@ -17,11 +17,6 @@ layout: default
 ## 教育背景
 - 
 
-
-## Academic Service
-
-
-
 ## Awards and Honors
 - 
 

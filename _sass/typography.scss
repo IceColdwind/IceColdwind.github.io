@@ -55,6 +55,8 @@
     }
     img {
         text-align: center;
-        width: 100%;
+        height: $image-size;
+        width: $image-size;
+        position: relative;
     }
 }

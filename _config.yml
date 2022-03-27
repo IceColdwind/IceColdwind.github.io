@@ -1,5 +1,5 @@
-title: Hanbing Zhu
-url: "https://IceColdwind.github.io"
+title: Dr. Hao Luo
+url: "http://luohao.site"
 # baseurl: "/luohao"
 
 markdown: kramdown
@@ -7,7 +7,7 @@ markdown: kramdown
 #tracking_id: G-KC6ZFHG111
 
 footer: No
-footer_url: "https://github.com/IceColdwind"
+footer_url: "https://github.com/michuanhaohao"
 footer_text: "Copy right @ Ankit Sultana"
 
 sass:

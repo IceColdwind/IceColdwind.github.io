@@ -19,7 +19,3 @@ layout: default
 
 ## Awards and Honors
 - 
-
-## Leadership Activities
-
-- 

@@ -2,31 +2,27 @@
 layout: defaul
 ---
 
-## 简介
+## About me
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 
-- 朱寒冰，硕士研究生，中共党员
-- 出生日期：1999年3月21日
 - 
-## 教育背景
+## Education 
 
-- 华中科技大学
-- 四川大学
+- 
 
-## 兴趣方向
+## Research Interest
 
-- 时间序列异常检测
-- 深度学习
+- Anomaly detection
 
 
 
-## 奖项和荣誉
+## Awards and Honor
 
 - **XXXX**, XXXXX, XXXX
 
 
-## 社会活动
+## Others
 
 2019
 

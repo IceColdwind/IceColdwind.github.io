@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="192.168.206.122">
+    <serverData>
+      <paths name="192.168.206.122">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/SaliencyRC" local="F:/kesci" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

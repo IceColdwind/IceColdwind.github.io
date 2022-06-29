@@ -53,7 +53,7 @@ layout: default
 
 ## 其他
 
-- 编程语言：Python、Go、C++等；
+- 编程语言：Python、Go、C++、Java等；
 
 
 
